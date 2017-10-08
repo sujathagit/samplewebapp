@@ -1,2 +1,2 @@
 # samplewebapp
-This is a sample web application on to learn docker containerization
+This is a sample web application to learn docker containerization
